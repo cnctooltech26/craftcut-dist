@@ -54,6 +54,6 @@ when a newer version is available.
 
 ## Support
 
-CNCToolTech · aji.ajitesh1020@gmail.com
+CNCToolTech · support@cnctooltech.info
 
-Released under the MIT License.
+Released under the GNU General Public License v3.0 (GPL-3.0).
